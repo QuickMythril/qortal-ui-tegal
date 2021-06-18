@@ -24,8 +24,8 @@ function createWindow() {
 
     myWindow = new BrowserWindow({
         backgroundColor: '#eee',
-        width: 800,
-        height: 640,
+        width: 1280,
+        height: 720,
         minWidth: 700,
         minHeight: 640,
         icon: iconPath(),
